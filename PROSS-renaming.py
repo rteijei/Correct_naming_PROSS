@@ -34,14 +34,14 @@ residue_rename_dict = {
     "HIE": {  # Histidine-E
         "1HB": "HB3",
         "HB1": "HB3",
-        "HD1": "HD2",
-        "1HD": "HD2",
+        "HD1": "HE2",
+        "1HD": "HE2",
     },
     "HIS": {  # Histidine-E
         "1HB": "HB3",
         "HB1": "HB3",
-        "HD1": "HD2",
-        "1HD": "HD2",
+        "HD1": "HE2",
+        "1HD": "HE2",
     },
     "PHE": {  # Phenylalanine
         "1HB": "HB3",
